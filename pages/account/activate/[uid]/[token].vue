@@ -12,7 +12,7 @@ const onAccountActivation = async () => {
       <h1 class="text-3xl font-bold text-center mb-8">Activate Your Account</h1>
       <div class="bg-white shadow-md rounded-lg px-6 py-8">
         <p class="text-md text-gray-700 mb-4">
-          Please click below button to activate your account.
+          Please click below button to activate your account test.
         </p>
 
         <div class="flex justify-center mb-3">
